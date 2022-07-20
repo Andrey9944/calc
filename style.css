@@ -6,12 +6,9 @@ body {
   font-family: "Share Tech Mono", "Segoe UI", Tahoma, Geneva, Verdana,
     sans-serif;
   overflow: hidden;
-  background-color: #413f42;
+  background-color: #8602c9;
 }
-a {
-  text-decoration: none;
-  color: rgb(66, 107, 255);
-}
+
 #main {
   display: flex;
   justify-content: center;
